@@ -44,7 +44,10 @@ My work mostly incorporate the accompanying :
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=hanesh-jogani&theme=slateorange)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hanesh-Jogani&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanesh-Jogani&theme=slateorange" />
+</p>
 
 Find out more about me & feel free to connect with me here:
 
