@@ -1,6 +1,6 @@
 ### Hey, Hanesh here
 
-I'm a programmer and CS undergrad at Ajeenkya D Y Patil University, Pune. Making life easier by trying different things with new advancements and building projects just to test my skills and abilities.
+A programmer and CS undergrad at Ajeenkya D Y Patil University, Pune. Making life easier by trying different things with new advancements and building projects just to test my skills and abilities.
 My work mostly incorporate the accompanying :
 > C | C++ | HTML | CSS | JavaScript | AngularJS | Java | Python | Adobe Illustrator | Adobe Photoshop
 
