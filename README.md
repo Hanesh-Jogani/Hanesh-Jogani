@@ -2,7 +2,7 @@
 
 A programmer and CS undergrad at Ajeenkya D Y Patil University, Pune. Making life easier by trying different things with new advancements and building projects just to test my skills and abilities.
 My work mostly incorporate the accompanying :
-> C | C++ | HTML | CSS | JavaScript | Python | Premiere Pro
+> C | C++ | HTML | CSS | JavaScript | Python
 
 - ⚡  Available for Freelance Projects / Internship Opportunities.
 - ⚡  I’m currently learning Premiere Pro, Python & Neural Networks
@@ -22,7 +22,6 @@ My work mostly incorporate the accompanying :
 
 ### 🧰 Frameworks and libraries
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 </p>
@@ -44,7 +43,6 @@ My work mostly incorporate the accompanying :
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hanesh-Jogani&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanesh-Jogani&theme=slateorange" />
 </p>
 
